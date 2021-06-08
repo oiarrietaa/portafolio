@@ -144,7 +144,7 @@ a{
 }
 .ancho{
     width: 100%;
-    height: 100%
+    height: 100%;
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -186,6 +186,9 @@ a{
         height: 150px;
     }
     .texto{
-        height: 1750px;
+        height: 1650px;
+    }
+    .espacio{
+        display: none;
     }
 }
